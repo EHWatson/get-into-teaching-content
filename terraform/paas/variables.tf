@@ -51,7 +51,7 @@ variable "paas_app_docker_image" {
 }
 
 variable "strategy" {
-   default = "blue-green-v2"
+   default = "blue-green"
 }
 
 variable "HTTPAUTH_PASSWORD" {}
