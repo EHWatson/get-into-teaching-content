@@ -29,7 +29,7 @@ backlink: "../../"
   
   <p>Or if the idea of teaching is new to you, once you've successfully completed a Bacherlor's degree, you can study for a postgraduate certificate of education (PGCE).</p>
 
-<p>Search <a href="https://digital.ucas.com/search" target="_blank">UCAS</a> to find a degree with QTS.</p>
+<p>Search <a href="https://digital.ucas.com/search" target="_blank">UCAS</a> to find a degree with QTS or a PGCE.</p>
 
 <!--[Go back to the home page](../../)-->
 
